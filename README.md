@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Gustavo A. Oliveira ou 1tuano
 - 👀 Dev mobile
-- 🌱 Me interesso por Kotlin, Flutter
+- 🌱 Me interesso por dev mobile em geral
 - 📫 gustavooliver@gmail.com
 
 <!---
