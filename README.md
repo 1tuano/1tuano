@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
   **Linguagens**
   
   <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />|<img alt="Kotlin" title="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">|<img title="Flutter" alt="Flutter" width="40px" src="img 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">|<img title="Flutter" alt="Flutter" width="40px" src="img 
+          
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 |--|--|--|--|
   </div>
